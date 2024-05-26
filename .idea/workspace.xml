@@ -21,9 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57b69e7f-8b50-4f45-8614-dd48c70f9751" name="Changes" comment="[Fix] arrumando threeNumbersSum.c">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/arithmeticMean.c" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/arithmeticMean.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,7 @@
       <workItem from="1716732322604" duration="398000" />
       <workItem from="1716732791541" duration="130000" />
       <workItem from="1716733122620" duration="227000" />
-      <workItem from="1716733412720" duration="1886000" />
+      <workItem from="1716733412720" duration="1965000" />
     </task>
     <task id="LOCAL-00001" summary="[Fix] arrumando threeNumbersSum.c">
       <option name="closed" value="true" />
