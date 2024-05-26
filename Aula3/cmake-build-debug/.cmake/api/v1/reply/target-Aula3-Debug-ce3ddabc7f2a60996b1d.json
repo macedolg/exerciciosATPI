@@ -100,13 +100,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "threeNumbersSum.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "threeNumbersSum.c",
+			"path" : "arithmeticMean.c",
 			"sourceGroupIndex" : 0
 		}
 	],
