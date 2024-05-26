@@ -4,4 +4,4 @@ project(Aula3 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Aula3
-        arithmeticMean.c)
+        threeNumbersSum.c)
