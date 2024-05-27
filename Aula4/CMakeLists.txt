@@ -3,4 +3,4 @@ project(Aula4 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Aula4 main.c)
+add_executable(Aula4 dollarExchangeRate.c)

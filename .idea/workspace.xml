@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Aula3" targetName="Aula3" />
+      <config projectName="Aula4" targetName="Aula4" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -21,11 +21,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57b69e7f-8b50-4f45-8614-dd48c70f9751" name="Changes" comment="[Fix] arrumando threeNumbersSum.c">
-      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/Aula3" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/Aula3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/gradeWeightedAverage1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/gradeWeightedAverage1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/cache-v2-999e0eebd11e212c7b69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-94fe1cad59d4bba994d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2fc104cf50f4d296538b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-26T14-22-36-0440.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/target-Aula4-Debug-62a1d644451d2ebe0658.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-813614dcaeb9adb30e6b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +117,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Aula3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula3" TARGET_NAME="Aula3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aula3" RUN_TARGET_NAME="Aula3">
+    <configuration name="Aula4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula4" TARGET_NAME="Aula4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aula4" RUN_TARGET_NAME="Aula4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -122,7 +141,7 @@
       <workItem from="1716733122620" duration="227000" />
       <workItem from="1716733412720" duration="1965000" />
       <workItem from="1716773237209" duration="6783000" />
-      <workItem from="1716808263906" duration="5249000" />
+      <workItem from="1716808263906" duration="6124000" />
     </task>
     <task id="LOCAL-00001" summary="[Fix] arrumando threeNumbersSum.c">
       <option name="closed" value="true" />
