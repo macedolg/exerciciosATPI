@@ -22,14 +22,10 @@
   <component name="ChangeListManager">
     <list default="true" id="57b69e7f-8b50-4f45-8614-dd48c70f9751" name="Changes" comment="[Fix] arrumando threeNumbersSum.c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d16fc0e0a4c05a8fa95b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-27T13-25-43-0874.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.cmake/api/v1/reply/target-Aula4-Debug-c843ab4a2616a2a7de5a.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/Aula4" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/Aula4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula4/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula4/powerConsumptionCalculator.c" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4/powerConsumptionCalculator.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +124,7 @@
       <workItem from="1716733122620" duration="227000" />
       <workItem from="1716733412720" duration="1965000" />
       <workItem from="1716773237209" duration="6783000" />
-      <workItem from="1716808263906" duration="12303000" />
+      <workItem from="1716808263906" duration="13523000" />
     </task>
     <task id="LOCAL-00001" summary="[Fix] arrumando threeNumbersSum.c">
       <option name="closed" value="true" />
