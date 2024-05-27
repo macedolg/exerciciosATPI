@@ -22,9 +22,11 @@
   <component name="ChangeListManager">
     <list default="true" id="57b69e7f-8b50-4f45-8614-dd48c70f9751" name="Changes" comment="[Fix] arrumando threeNumbersSum.c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/Aula3" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/Aula3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula3/prizeAwarding.c" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/prizeAwarding.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +93,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Aula3" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Aula3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula3" TARGET_NAME="Aula3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aula3" RUN_TARGET_NAME="Aula3">
       <method v="2">
@@ -116,7 +123,7 @@
       <workItem from="1716733122620" duration="227000" />
       <workItem from="1716733412720" duration="1965000" />
       <workItem from="1716773237209" duration="6783000" />
-      <workItem from="1716808263906" duration="398000" />
+      <workItem from="1716808263906" duration="1422000" />
     </task>
     <task id="LOCAL-00001" summary="[Fix] arrumando threeNumbersSum.c">
       <option name="closed" value="true" />

@@ -49,17 +49,11 @@ cmake_ninja_workdir = /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/ex
 
 build cmake_object_order_depends_target_Aula3: phony || CMakeFiles/Aula3.dir
 
-build CMakeFiles/Aula3.dir/functionaryPayRaise.c.o: C_COMPILER__Aula3_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/Aula3/functionaryPayRaise.c || cmake_object_order_depends_target_Aula3
-  DEP_FILE = CMakeFiles/Aula3.dir/functionaryPayRaise.c.o.d
+build CMakeFiles/Aula3.dir/prizeAwarding.c.o: C_COMPILER__Aula3_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/Aula3/prizeAwarding.c || cmake_object_order_depends_target_Aula3
+  DEP_FILE = CMakeFiles/Aula3.dir/prizeAwarding.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Aula3.dir
   OBJECT_FILE_DIR = CMakeFiles/Aula3.dir
-
-build CMakeFiles/Aula3.dir/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/prizeAwarding.c.o: C_COMPILER__Aula3_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/prizeAwarding.c || cmake_object_order_depends_target_Aula3
-  DEP_FILE = CMakeFiles/Aula3.dir/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/prizeAwarding.c.o.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/Aula3.dir
-  OBJECT_FILE_DIR = CMakeFiles/Aula3.dir/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI
 
 
 # =============================================================================
@@ -69,7 +63,7 @@ build CMakeFiles/Aula3.dir/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aula
 #############################################
 # Link the executable Aula3
 
-build Aula3: C_EXECUTABLE_LINKER__Aula3_Debug CMakeFiles/Aula3.dir/functionaryPayRaise.c.o CMakeFiles/Aula3.dir/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/prizeAwarding.c.o
+build Aula3: C_EXECUTABLE_LINKER__Aula3_Debug CMakeFiles/Aula3.dir/prizeAwarding.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Aula3.dir
   POST_BUILD = :
