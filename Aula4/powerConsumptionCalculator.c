@@ -28,20 +28,20 @@ int main(void) {
     float consumptionYear = consumptionDay * 365;
 
     float spendAmountYear = consumptionYear * priceKWH;
+    float wattsDay = dailyUse * watts;
+    float wattsMonth = wattsDay * 30;
+    float wattsYear = wattsDay * 365;
 
-     float wattsDay = dailyUse * watts;
-     float wattsMonth = wattsDay * 30;
-     float wattsYear = wattsDay * 365;
-
-     printf("Cost in Watts = %.1f \n", wattsDay);
-    printf("The power consumption of your electrical appliance in %.2f hours/day will consume %f KWh daily. \n", dailyUse, consumptionDay);
-    printf("Consuming energy %.2f hours/day will give you a cost of R$ %.2f per day. \n", dailyUse, spendAmountDay);
-     printf("Cost in Watts = %.1f \n", wattsMonth);
-    printf("The power consumption of your electrical appliance in %.2f hours/day will consume %f KWh monthly. \n", dailyUse, consumptionMonth);
-    printf("Consuming energy %.2f hours/day will give you a cost of R$ %.2f per month. \n", dailyUse, spendAmountMonth);
-     printf("Cost in Watts = %.1f \n", wattsYear);
-    printf("The power consumption of your electrical appliance in %.2f hours/day will consume %f KWh yearly. \n", dailyUse, consumptionYear);
-    printf("Consuming energy %.2f hours/day will give you a cost of R$ %.2f per year. \n", dailyUse, spendAmountYear);
+    printf("At %.2f hours/day of use, your %.2f W appliance will consume:\n", dailyUse, watts);
+    printf("  - %.2f kWh daily\n", consumptionDay);
+    printf("  - Costing R$ %.2f per day\n", spendAmountDay);
+    printf("  - %.2f kWh monthly\n", consumptionMonth);
+    printf("  - Costing R$ %.2f per month\n", spendAmountMonth);
+    printf("  - %.2f kWh yearly\n", consumptionYear);
+    printf("  - Costing R$ %.2f per year\n", spendAmountYear);
+    printf("  - Watts used daily: %.2f W\n", wattsDay);
+    printf("  - Watts used monthly: %.2f W\n", wattsMonth);
+    printf("  - Watts used yearly: %.2f W\n", wattsYear);
 
     return 0;
 }
