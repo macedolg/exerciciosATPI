@@ -1,7 +1,6 @@
 //
 // Created by macedolg on 5/26/2024.
 //
-
 #include <stdio.h>
 #include <math.h>
 

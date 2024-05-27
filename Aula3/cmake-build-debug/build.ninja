@@ -49,12 +49,6 @@ cmake_ninja_workdir = /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/ex
 
 build cmake_object_order_depends_target_Aula3: phony || CMakeFiles/Aula3.dir
 
-build CMakeFiles/Aula3.dir/predecessorAndSuccessorOfANumber.c.o: C_COMPILER__Aula3_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/Aula3/predecessorAndSuccessorOfANumber.c || cmake_object_order_depends_target_Aula3
-  DEP_FILE = CMakeFiles/Aula3.dir/predecessorAndSuccessorOfANumber.c.o.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/Aula3.dir
-  OBJECT_FILE_DIR = CMakeFiles/Aula3.dir
-
 build CMakeFiles/Aula3.dir/multiplicationTableOfANumber.c.o: C_COMPILER__Aula3_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/Aula3/multiplicationTableOfANumber.c || cmake_object_order_depends_target_Aula3
   DEP_FILE = CMakeFiles/Aula3.dir/multiplicationTableOfANumber.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
@@ -69,7 +63,7 @@ build CMakeFiles/Aula3.dir/multiplicationTableOfANumber.c.o: C_COMPILER__Aula3_u
 #############################################
 # Link the executable Aula3
 
-build Aula3: C_EXECUTABLE_LINKER__Aula3_Debug CMakeFiles/Aula3.dir/predecessorAndSuccessorOfANumber.c.o CMakeFiles/Aula3.dir/multiplicationTableOfANumber.c.o
+build Aula3: C_EXECUTABLE_LINKER__Aula3_Debug CMakeFiles/Aula3.dir/multiplicationTableOfANumber.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Aula3.dir
   POST_BUILD = :
