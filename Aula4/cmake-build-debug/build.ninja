@@ -55,6 +55,12 @@ build CMakeFiles/Aula4.dir/dollarExchangeRate.c.o: C_COMPILER__Aula4_unscanned_D
   OBJECT_DIR = CMakeFiles/Aula4.dir
   OBJECT_FILE_DIR = CMakeFiles/Aula4.dir
 
+build CMakeFiles/Aula4.dir/powerConsumptionCalculator.c.o: C_COMPILER__Aula4_unscanned_Debug /home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI/Aula4/powerConsumptionCalculator.c || cmake_object_order_depends_target_Aula4
+  DEP_FILE = CMakeFiles/Aula4.dir/powerConsumptionCalculator.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Aula4.dir
+  OBJECT_FILE_DIR = CMakeFiles/Aula4.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Aula4
@@ -63,7 +69,7 @@ build CMakeFiles/Aula4.dir/dollarExchangeRate.c.o: C_COMPILER__Aula4_unscanned_D
 #############################################
 # Link the executable Aula4
 
-build Aula4: C_EXECUTABLE_LINKER__Aula4_Debug CMakeFiles/Aula4.dir/dollarExchangeRate.c.o
+build Aula4: C_EXECUTABLE_LINKER__Aula4_Debug CMakeFiles/Aula4.dir/dollarExchangeRate.c.o CMakeFiles/Aula4.dir/powerConsumptionCalculator.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Aula4.dir
   POST_BUILD = :
