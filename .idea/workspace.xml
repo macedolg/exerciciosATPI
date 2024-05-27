@@ -21,7 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57b69e7f-8b50-4f45-8614-dd48c70f9751" name="Changes" comment="[Fix] arrumando threeNumbersSum.c">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "CMake Application.Aula3.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -74,7 +77,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lgm61/OneDrive/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI",
+    "last_opened_file_path": "/home/macedolg/Documents/Faculdade/Projetos/ATP/I/Aulas/exerciciosATPI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,12 +88,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Aula3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula3" TARGET_NAME="Aula3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aula3" RUN_TARGET_NAME="Aula3">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Aula3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula3" TARGET_NAME="Aula3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aula3" RUN_TARGET_NAME="Aula3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -108,6 +111,7 @@
       <workItem from="1716732791541" duration="130000" />
       <workItem from="1716733122620" duration="227000" />
       <workItem from="1716733412720" duration="1965000" />
+      <workItem from="1716773237209" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="[Fix] arrumando threeNumbersSum.c">
       <option name="closed" value="true" />
